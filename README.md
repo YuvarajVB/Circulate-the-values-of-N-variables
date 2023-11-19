@@ -35,6 +35,5 @@ def circulate():
 ```
 ## Output:
 ![output](/circulate.png)
-
 ## Result:
 Thus the circulating n variables using function concept is successfully executed
