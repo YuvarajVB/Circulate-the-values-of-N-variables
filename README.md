@@ -25,8 +25,8 @@ The program execution is complete. The resulting list after circular shift has b
 ## Program:
 ```
 #Program to circulate N values.
-#Developed by: 
-#RegisterNumber:
+#Developed by: YUVARAJ V
+#RegisterNumber 23013769
 def circulate():
     list1=eval(input())
     n=int(input())
